@@ -1,12 +1,17 @@
-### I am William Cardoso
 ![](images/william-cardoso-banner.png)
 
-I am a developer, linux user and passionate about open source. I like movies and anime and enjoy life. 
+## Hi 👋, 
+I am a developer 👨‍💻, linux user 🐧 and passionate about open source ❤️. I like movies and animes and enjoy life. 
 
-Skills: Dart / Flutter / SQL
+- 🔭 I’m currently working on Mobile Apps
+
+- 🇧🇷 I’m from Brazil
+
+- 💬 Ask me about: tech, memes, anime, movies
+
+-  ⚡ Skills: Dart / Flutter / SQL
+
+[![Linkedin Badge](https://img.shields.io/badge/-williamcunhacardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-cunha-cardoso/)](https://www.linkedin.com/in/william-cunha-cardoso/) [![Protonmail Badge](https://img.shields.io/badge/-williamcardoso-black?style=flat-square&logo=ProtonMail&logoColor=white)](mailto:williamcardoso@pm.me) [![Devto Badge](https://img.shields.io/badge/-williamcardoso-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/williamcunhacardoso/)](https://dev.to/williamcunhacardoso/)![Profile views](https://gpvc.arturio.dev/williamcunhacardoso)
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/williamcunhacardoso)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/williamcunhacardoso)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/william-cunha-cardoso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/william-cunha-cardoso)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=williamcunhacardoso&show_icons=true)![Profile views](https://gpvc.arturio.dev/williamcunhacardoso)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=williamcunhacardoso&show_icons=true)
