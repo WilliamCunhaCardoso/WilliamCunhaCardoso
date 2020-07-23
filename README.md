@@ -1,10 +1,12 @@
-# William Cunha Cardoso  
-[![Linkedin Badge](https://img.shields.io/badge/-williamcunhacardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-cunha-cardoso/)](https://www.linkedin.com/in/william-cunha-cardoso/) [![Protonmail Badge](https://img.shields.io/badge/-williamcardoso-black?style=flat-square&logo=ProtonMail&logoColor=white)](mailto:williamcardoso@pm.me) [![Devto Badge](https://img.shields.io/badge/-williamcardoso-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/williamcunhacardoso/)](https://dev.to/williamcunhacardoso/)
+### Hi there 👋, William Cardoso
+![](images/william-cardoso-banner.png)
 
-## Hi 👋, 
-I'm William Cunha Cardoso, I'm a front end developer 👨‍💻 who is passionate about mobile technologies and open source. 
+I am a developer, linux user and passionate about open source. I like movies and animes and enjoy life. 
 
-- 🔭 I’m currently working on Mobile Apps
-- 🇧🇷 I’m from Brazil
-- 💬 Ask me about: tech, memes, anime
--  ⚡ Skills: Dart/Flutter
+Skills: Dart / Flutter / SQL
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/williamcunhacardoso)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/williamcunhacardoso)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/william-cunha-cardoso/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/william-cunha-cardoso)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=williamcunhacardoso&show_icons=true)![Profile views](https://gpvc.arturio.dev/williamcunhacardoso)  
