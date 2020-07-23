@@ -1,6 +1,6 @@
 ![](images/william-cardoso-banner.png)
 
-## Hi 👋, 
+## Hi 👋 
 I am a developer 👨‍💻, linux user 🐧 and passionate about open source ❤️. I like movies and animes and enjoy life. 
 
 - 🔭 I’m currently working on Mobile Apps
