@@ -1,7 +1,7 @@
-### Hi there 👋, William Cardoso
+### I am William Cardoso
 ![](images/william-cardoso-banner.png)
 
-I am a developer, linux user and passionate about open source. I like movies and animes and enjoy life. 
+I am a developer, linux user and passionate about open source. I like movies and anime and enjoy life. 
 
 Skills: Dart / Flutter / SQL
 
